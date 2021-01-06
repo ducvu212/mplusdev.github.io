@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.msb.msb_digital_card_app.dev",
+    "sha256_cert_fingerprints":
+    ["89:2A:50:E6:2E:6A:B5:38:5C:C4:E3:1E:D3:95:FE:AA:4B:ED:3A:46:BB:8C:E7:D5:0A:EC:E3:A7:51:5E:58:57"]
+  }
+}]
